@@ -15,8 +15,6 @@ A Machine Learning project that predicts the winner of ATP tennis matches using 
 ```
 tennis-match-prediction/
 │
-├── data/               # Raw and processed datasets
-├── models/             # Trained machine learning models
 ├── src/                # Source code
 ├── README.md
 └── requirements.txt
